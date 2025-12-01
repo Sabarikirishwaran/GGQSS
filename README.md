@@ -12,15 +12,14 @@ Research into quantum approaches for the Boolean satisfiability problem (SAT) ha
 
 ## Early Quantum Search and Amplitude Amplification
 
-The earliest quantum contributions to SAT-solving emerged from the development of **Grover’s search algorithm** [Grover, 1996], which established that a quantum computer can search an unstructured space of size \(N\) in \(O(\sqrt{N})\) time. This provided a **quadratic speedup** over classical brute-force SAT solving and led to the broader framework of **amplitude amplification** [Brassard et al., 2002], which generalizes Grover’s method to boost the success probability of any probabilistic algorithm.
+The earliest quantum contributions to SAT-solving emerged from the development of **Grover’s search algorithm** [Grover, 1996], which established that a quantum computer can search an unstructured space of size `N` in time proportional to `sqrt(N)`. This provided a **quadratic speedup** over classical brute-force SAT solving and led to the broader framework of **amplitude amplification** [Brassard et al., 2002], which generalizes Grover’s method to boost the success probability of any probabilistic algorithm.
 
 Shortly thereafter, researchers showed that **Schöning’s randomized SAT algorithm** [Schöning, 1999] could be quadratically accelerated using amplitude amplification [Dürr & Høyer, 1996]. This resulted in quantum runtimes of the form:
 
-\[
-O(\sqrt{T(n)}\, \text{poly}(n)),
-\]
 
-where \(T(n)\) is the classical randomized runtime. These methods remained fundamentally tied to treating SAT as a **black-box search problem**, without exploiting the structural or geometric properties of its solution space.
+O( sqrt(T(n)) * poly(n) )
+
+where `T(n)` is the classical randomized runtime. These methods remained fundamentally tied to treating SAT as a **black-box search problem**, without exploiting the structural or geometric properties of its solution space.
 
 ---
 
