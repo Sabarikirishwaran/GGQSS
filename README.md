@@ -12,16 +12,16 @@ Research into quantum approaches for the Boolean satisfiability problem (SAT) ha
 
 ## Early Quantum Search and Amplitude Amplification
 
-The earliest quantum contributions to SAT-solving emerged from the development of **Grover’s search algorithm** [Grover, 1996], which established that a quantum computer can search an unstructured space of size `N` in time proportional to `sqrt(N)`. This provided a **quadratic speedup** over classical brute-force SAT solving and led to the broader framework of **amplitude amplification** [Brassard et al., 2002], which generalizes Grover’s method to boost the success probability of any probabilistic algorithm.
+The earliest quantum contributions to SAT-solving emerged from the development of **Grover’s search algorithm** [Grover, 1996], which established that a quantum computer can search an unstructured space of size $N$ in time proportional to $sqrt(N)$. This provided a **quadratic speedup** over classical brute-force SAT solving and led to the broader framework of **amplitude amplification** [Brassard et al., 2002], which generalizes Grover’s method to boost the success probability of any probabilistic algorithm.
 
 Shortly thereafter, researchers showed that **Schöning’s randomized SAT algorithm** [Schöning, 1999] could be quadratically accelerated using amplitude amplification [Dürr & Høyer, 1996]. This resulted in quantum runtimes of the form:
 
 
 $$
-O!\bigl(\sqrt{T(n)},\mathrm{poly}(n)\bigr),
+O\bigl(\sqrt{T(n)},\mathrm{poly}(n)\bigr)
 $$
 
-where `T(n)` is the classical randomized runtime. These methods remained fundamentally tied to treating SAT as a **black-box search problem**, without exploiting the structural or geometric properties of its solution space.
+where $T(n)$ is the classical randomized runtime. These methods remained fundamentally tied to treating SAT as a **black-box search problem**, without exploiting the structural or geometric properties of its solution space.
 
 ---
 
@@ -105,7 +105,7 @@ This project is licensed under the **Polyform Noncommercial License**.
 
 You may use, modify, and share this software only for **noncommercial** purposes, under the terms specified in the Polyform Noncommercial license.
 
-For the full text of the license, see the [`LICENSE`](./LICENSE) file in this repository.
+For the full text of the license, see the [$LICENSE$](./LICENSE) file in this repository.
 
 
 # Bibliography
