@@ -109,19 +109,13 @@ For the full text of the license, see the [`LICENSE`](./LICENSE) file in this re
 
 # Bibliography
 
-Absil, P.-A., Mahony, R., & Sepulchre, R. (2008). *Optimization Algorithms on Matrix Manifolds*. Princeton University Press.  
-
-Brassard, G., Høyer, P., Mosca, M., & Tapp, A. (2002). Quantum amplitude amplification and estimation. *Contemporary Mathematics*, 305, 53–74.  
-
-Dong, D., & Petersen, I. R. (2010). Quantum control theory and applications: A survey. *IET Control Theory & Applications*, 4(12), 2651–2671.  
-
-Dürr, C., & Høyer, P. (1996). A quantum algorithm for finding the minimum. arXiv:quant-ph/9607014.  
-
-Farhi, E., Goldstone, J., & Gutmann, S. (2014). A quantum approximate optimization algorithm. arXiv:1411.4028.  
-
-Grover, L. K. (1996). A fast quantum mechanical algorithm for database search. *Proceedings of STOC ‘96*.  
-
-Peruzzo, A., et al. (2014). A variational eigenvalue solver on a quantum processor. *Nature Communications*, 5, 4213.  
+- Absil, P.-A., Mahony, R., & Sepulchre, R. (2008). *Optimization Algorithms on Matrix Manifolds*. Princeton University Press.  
+- Brassard, G., Høyer, P., Mosca, M., & Tapp, A. (2002). Quantum amplitude amplification and estimation. *Contemporary Mathematics*, 305, 53–74.  
+- Dong, D., & Petersen, I. R. (2010). Quantum control theory and applications: A survey. *IET Control Theory & Applications*, 4(12), 2651–2671.  
+- Dürr, C., & Høyer, P. (1996). A quantum algorithm for finding the minimum. arXiv:quant-ph/9607014.  
+- Farhi, E., Goldstone, J., & Gutmann, S. (2014). A quantum approximate optimization algorithm. arXiv:1411.4028.  
+- Grover, L. K. (1996). A fast quantum mechanical algorithm for database search. *Proceedings of STOC ‘96*.  
+- Peruzzo, A., et al. (2014). A variational eigenvalue solver on a quantum processor. *Nature Communications*, 5, 4213.  
 
 Schöning, U. (1999). A probabilistic algorithm for k-SAT and constraint satisfaction problems. *FOCS ‘99*.  
 
