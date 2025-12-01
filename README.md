@@ -60,7 +60,7 @@ Despite their power, these geometric tools remained confined to quantum control 
 
 ---
 
-## Research Gap
+## The Gap
 
 Across the evolution from amplitude amplification to measurement-driven solvers, the following elements remain absent from all known peer-reviewed research:
 
@@ -72,7 +72,7 @@ Across the evolution from amplitude amplification to measurement-driven solvers,
 
 Thus, although the literature has independently developed measurement-driven SAT solvers and geometric methods for quantum control, **no work unifies these into a geometry-guided SAT solver**. The present work addresses this gap by constructing a solver that uses Stiefel manifold optimization to adaptively select measurement bases, thereby guiding the quantum state toward the solution subspace in a geometrically informed manner.
 
-## 2. Contribution of This Work
+## 2. This Work
 
 1. **Geometric Reformulation of Measurement-driven SAT Solving**
 
