@@ -17,7 +17,9 @@ The earliest quantum contributions to SAT-solving emerged from the development o
 Shortly thereafter, researchers showed that **Schöning’s randomized SAT algorithm** [Schöning, 1999] could be quadratically accelerated using amplitude amplification [Dürr & Høyer, 1996]. This resulted in quantum runtimes of the form:
 
 
-'O(sqrt(T(n)) * poly(n))'
+$$
+O!\bigl(\sqrt{T(n)},\mathrm{poly}(n)\bigr),
+$$
 
 where `T(n)` is the classical randomized runtime. These methods remained fundamentally tied to treating SAT as a **black-box search problem**, without exploiting the structural or geometric properties of its solution space.
 
