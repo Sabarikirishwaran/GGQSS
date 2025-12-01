@@ -116,8 +116,7 @@ For the full text of the license, see the [`LICENSE`](./LICENSE) file in this re
 - Farhi, E., Goldstone, J., & Gutmann, S. (2014). A quantum approximate optimization algorithm. arXiv:1411.4028.  
 - Grover, L. K. (1996). A fast quantum mechanical algorithm for database search. *Proceedings of STOC ‘96*.  
 - Peruzzo, A., et al. (2014). A variational eigenvalue solver on a quantum processor. *Nature Communications*, 5, 4213.  
-
-Schöning, U. (1999). A probabilistic algorithm for k-SAT and constraint satisfaction problems. *FOCS ‘99*.  
+- Schöning, U. (1999). A probabilistic algorithm for k-SAT and constraint satisfaction problems. *FOCS ‘99*.  
 
 
 
