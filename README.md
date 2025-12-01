@@ -2,7 +2,7 @@
 
 This project presents a geometry-guided, measurement-driven quantum SAT solver that leverages Riemannian optimization techniques to navigate Hilbert space efficiently toward satisfying assignments of Boolean formulas. The work integrates concepts from quantum measurement theory, geometric control, and manifold optimization, providing a novel framework for clause-by-clause quantum constraint satisfaction.
 
-![GGQSS](https://github.com/user-attachments/assets/22e795b5-0545-4342-8560-724d271bf420)
+![GGQSS](https://github.com/user-attachments/assets/3311d3fc-06da-4313-8933-9208c551d6c4)
 
 ---
 
